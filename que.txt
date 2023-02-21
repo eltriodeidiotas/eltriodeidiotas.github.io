@@ -1,0 +1,55 @@
+QUE?
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Mis Aventuras</title>
+    <link rel="stylesheet" href="estilos.css">
+  </head>
+  <body>
+    <header>
+      <h1>Cosas que emos echo (No se la verdad)</h1>
+      <nav>
+        <ul>
+          <li><a href="#">Inicio</a></li>
+          <li><a href="#">Acerca de</a></li>
+          <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Contacto</a></li>
+        </ul>
+      </nav>
+    </header>
+    
+    <main>
+      <section class="articulos">
+        <article class="nose">
+          <header>
+            <h2>Fuimos a la casa de la Yisel</h2>
+            <p>Publicado el <time datetime="2023-01-15">15 de enero de 2023</time></p>
+          </header>
+          <p>No se.</p>
+          <img src="https://lh3.googleusercontent.com/qSYRxJjT0Ok6bswMuwYNfR3gU1ApkFyaADreb5UulCRznEJQgiJnM7Y6vYxjABuDl6vMJ2aVvKHT19gZrnmQM2z2qAtrVo4NMpzPPjRUfr6LKDEmv91X5W9SiNukPh-79HxU5kdIvBhpKHfpaMhuwCegh6HiQ2bRVd-K0vHRyKt1Y4zdheSesMBtErzRdHf5KCIHN0cElwlkifqM_OMBk2TSc9UdnxO-PW_Z1dK4qcdbuo7yf3zSBmVSScvsVVIgphmYAwYLlcV9CrrYFukMYALzvb4BPsx6iIs0kO0sIm_U1xuhLt8vpKg-sj9Xe0EzMqsVb8o70foY-vAKf7VE0iWK5kN5c--VDscQUuBBXbA5FF5xaxVIVbvyualIbdTnwgUjKL6GmA3HkgvXek-6BKU5RBLfQMfcVRrhRgkvQeP3ATWPhrUp1Kai_I2NPVp5QI6IE5xcCce3nGbuiBsnXQ3dXYw35IhllvnB5RXz5m-FIlH9eZNkc2ABvk6LOrJDSZVrr0HfqCgKOSrd5LAOuZY84Pq3xWxVzDgW6lT9pZr7QtnsDaG1kQ-OVx34X1j0iwzxEePqzB9uQXH7_ETm125jjP9tU5oOxLnvRxTrENX2zjfqPVvZwyJCN9hZfir1afGv8wBNHE9X2xxUYitjESYSKpusJAJxnJqd0ladiZ-QKuAFCR0oXOnWWyJ7LI1NMzlLb4VeXPbTikIhsx9od9VhR7h7yofwvnQp5ykQkaPAzvQq1GzlJ_4seTpb7BTfGBJcFVWYAZXjlvD3SWB3srjZJW_j-iyodBlG_Xmh8M0WhYxxKW_t8H520LE-aMJ_CJcUtL8c03Y7u9mvCxVvicsoHgGFHLeLiMKmtzNCPz8C3JaFrRl08STnzxYsSL16bLbmpKZ4RnkPXdysmGid7BVnRf9FfzASWEhcGIrOftSWxyiSDSRNWyrNBPLRV_Tko0tXB2ORbkqW5EB-CTatoZGgWaelFTCEid72a2i-xBMHYEdNdhm9DKofOzUTN0ZqWuIHI1iqLP43syCPmczGbCaZlvQYpw=w523-h699-s-no?authuser=0">
+          <img src="https://lh3.googleusercontent.com/1th3h6Ux3cbuO2XDu1y8MzuV1WqG1xLBiLt7blnF5CDvLyY158-0UXjobD0YqmkGr1TQswGIgwxvzxjKpstphzyQ899gSgD6JU5ThmT4KsXB724KEhdsrCWPcRHpSua8P9-Q5aBL1vRFrXor-PuiFNn_qdbyWx9BqKhXmbOgQlOL-YnVJC_9EF5yaFwdabybw2ZMy7Aj0qJ45DeFxla48hId9rXZZQ4iAWFlNIbPjDeA2CcGRFC4VdrP6TKW9cOwXqyI6IBsJ9rXb68bM9bmq_WO6vyVpZR-TL3uDEInGXO8D3S_iYVdEHsAiKbQtez6fRxw6w6jdk4rM-jKTQsKSU6HhEYrQQ3Vrx-wvvZIU_Fe-j1eioUthJRMqy9ZucrRP3nRn37GoxGTFBgSiL0dy4Jmk5CaGU29jT78KBRvT0oJ0RstsRwk_7HnPUIjMJtC_u51Q4NmHC6y6ROIJH3lUURjtwUP1ngxrDIK-aYpRYX6egDdIcIbV4y2zFvcDHm9JCE7mLHt3F_J_PviQmDpnX9Ee2r3F283x7TsxhWNfwYOp9qj7ut2Iqa7WxGeI7Y2WajvbWfBwE5-J4NGOaUHsDksCT9WftEc8JFkahnMqeQDyE1O5vdhyGLR9MosRdUcNeYdvGrYRuKXvOcW3EUzkI3ETHJo3XvAHBdNMfTSVt_zde-z_ez6gB8AdnLhJznLnRp8aQJlD2VYiZKWX9ZTiZmnjuINS4bMo56Qxc0dNkBv3xVVzaiHstdi5r0ISy8ZszIfwywQzFzH9C_yAv4aDqWKAEHTyveNmfnKulKBMSSO3pcinboaX5tCXRWMdYe1qjrhxwE9W2VmRFaMprwNdM8uzFmGl-rEZ5aET_TjNx9TfB0NwN5rMQA7Yhus6zpBlxXaowPzR9PW1T_rx_JYfRYYfx-oHNznMEri-xNx8hsscV0AqNHI7SdRjVK4h27xelL8_iunWnsC00zVBkkDGw_CAigUo1mB7k38vddxyYxr-1Vwj3NgPGiyWBPd-BjQEx95vtg2LV7iUuCONi_zvtyxfOerOA=w393-h699-s-no?authuser=0">
+          <img src="https://lh3.googleusercontent.com/rrK1nn990rtaZxKp5Vtssr2ErsXx8uGxQqE22rpcTX6iueJqcUt8uAt4Thcr38xH7ESll5PFL4hN6C2unHCSgEEKJZ4VyPb7P38WD2opqKlEBKS9aWopp1NrEP2bRI7OH6jlRYt9gBSx2F_QXYqXMezX8RmASf9vASSmea0sKADFk80nsTq1hB72ZPqLtDywCtOjWCVOduh8Q65n4CyypzuTTPSPbNmsskmjH--7alJyYIyW5Vd1fSQwvEXOm5KkI081krjZr0NNJ23rN2uU21iXSCKVMf8w_DOKeBWKpINwejfAoOMqHi8ZpjRbHyKxZEnL3zIKY2EjjPggvoiqSD09p7PsaQFBhs23pBifiUNdNpNF4nxrbxbxwL-z_7LP9VFAEIuQfIndCbxi9gkx7iuXGcKnnKcTLqu0nboRoRCS48k0NrQbPSzpIAvfUWmv5JbVEdZX5cBcYdOoAUuOImA3SltVEsWmBcJ3_avkh3P_lHhXiKApTUUNHvIIH2BfEXQ1FA-hiQHMnIItun5LZpczMJ_VUBsrvwzwtTY6jlO259W0dS8zyprr7orjjj9UxK_UTGnf2RO-f2iize-A_Z0QoP0gnaBfHwNBzH_GgkLRatf87qWSIMw6IVlwf_DA1eFem6IZ2T61dQaJoqBZc40980wbM-ByIOVwtBy7ynKG5KesGkV6ElwesNt6YWE3nOwgN1XkS_psISnhl6mxYBBRYmmXm5qSQ6Gi2B_6X8dsx551bJDRJjTDgS6nS6PdcIj1rgXJDUM1D2PaPxYniwTkny6Kj3sZ6mHTrBuBNzzz6PqQBZAOVthgoE5hFFrMsvldl_YXfAXGspMkBFSIe7HmwMb49Sn_F7-iXZQLIWMaW4u5_dO3MZynkO5didz0CN14OzVzO5C1DKqpxAFBVGH2GvtKw8v9fh3Zm4eigWc1Exv9ALByBCUaJ_o-VhA-dIpLjJA5DqG3Xta-UwHWDMjlpEL0S0sf0HJYE-f6Ut55B27iqkExgGydCwypSk-2n48vH1KtjW3ebwHPwwwWBqJFT14o5A=w393-h699-s-no?authuser=0">
+        </article>
+        
+        <!-- Agrega aquí más artículos -->
+        
+      </section>
+      
+      <aside>
+        <h3>Artículos Recientes</h3>
+        <ul>
+          <li><a href="#">Título del artículo 1</a></li>
+          <li><a href="#">Título del artículo 2</a></li>
+          <li><a href="#">Título del artículo 3</a></li>
+          <li><a href="#">Título del artículo 4</a></li>
+          <li><a href="#">Título del artículo 5</a></li>
+        </ul>
+      </aside>
+    </main>
+    
+    <footer>
+      <p>Derechos reservados NO COMPARTIR © 2023</p>
+    </footer>
+    
+  </body>
+</html>
